@@ -27,7 +27,3 @@ TaskMaster is a modern, responsive task management web application built using *
 
 
 
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/taskmaster.git
